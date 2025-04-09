@@ -1,8 +1,0 @@
-# Fill null values in 'Age' with median age
-median_age = train_set['Age'].median()
-train_set['Age'].fillna(median_age, inplace=True)
-test_set['Age'].fillna(median_age, inplace=True)
-
-# Verify the changes
-print(train_set.info())
-print(test_set.info())
