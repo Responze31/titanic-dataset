@@ -21,6 +21,7 @@ Gaussian Naive Bayes (GaussianNB)
 Support Vector Machine (SVC)
 
 ## Requirements
+
 scikit-learn
 matplotlib
 seaborn
