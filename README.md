@@ -20,7 +20,7 @@ Random Forest (RandomForestClassifier)
 Gaussian Naive Bayes (GaussianNB)
 Support Vector Machine (SVC)
 
-## Requirements
+## Requirements
 
 scikit-learn
 matplotlib
